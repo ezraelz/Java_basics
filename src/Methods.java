@@ -3,6 +3,11 @@
 // ==================================
 
 import java.util.Scanner;
+
+// ============================================================================
+// Method object that contains some example methods and thier return types
+// ============================================================================
+
 public class Methods {
     // java's way to take an input from the user
     Scanner scanner = new Scanner(System.in);
