@@ -1,3 +1,7 @@
+// ===================================================
+// Calculator example using scanner and switch methods
+// ===================================================
+
 import java.util.Scanner;
 
 public class Calculator {

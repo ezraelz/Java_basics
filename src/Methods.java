@@ -1,3 +1,7 @@
+// ==================================
+// Methods, parameters and arguments
+// ==================================
+
 import java.util.Scanner;
 public class Methods {
     Scanner scanner = new Scanner(System.in);
@@ -37,5 +41,5 @@ public class Methods {
         }
         return true;
     }
-    
+
 }

@@ -1,3 +1,6 @@
+// ===========================
+// Array and ArrayList methods
+// ===========================
 public class ArrayArrayList {
     public void example(){
         String[] roles = {"admin", "supervisor", "user"};

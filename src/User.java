@@ -1,5 +1,8 @@
-class User {
+// ===========================
+// Object and object methods example
+// ===========================
 
+class User {
     String name;
     int age;
     String role;
