@@ -4,11 +4,15 @@
 
 import java.util.Scanner;
 public class Methods {
+    // java's way to take an input from the user
     Scanner scanner = new Scanner(System.in);
 
+    // void method returns nothing
     void greeting(){
         System.out.print("Hello there!");
     }
+
+    // Returns string
     String greet(String name){
         System.out.println("Hello " + name);
         return name;
@@ -31,6 +35,8 @@ public class Methods {
         System.out.println("The result is " + result);
         
     }
+
+    // Returns boolean value
     boolean checkage(int age){
         System.out.println("Enter age: ");
         age = scanner.nextInt();
