@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class No{
+class Conditionals{
     public void gradeInfo(int grade){
         Scanner scanner = new Scanner(System.in);
 
