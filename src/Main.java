@@ -17,7 +17,7 @@ public class Main {
         Methods method = new Methods();
 
         // New instance of user object
-        User user = new User("jack", 10, "student");
+        Objects user = new Objects();
         // Accessing the properties of the user object
         user.printProfile();
 
