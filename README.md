@@ -1,6 +1,7 @@
 # Java_basics
 
-# ======================================
+# ========================================================================================================================
+
 # Day 1 – Java Setup & Basics
 
 # 1️⃣ Install JDK 17+
@@ -56,7 +57,7 @@
 # ✔ Variables & types
 # ✔ First Java program
 
-# =======================================
+# ========================================================================================================================
 
 # Day 2 – Control Flow & Methods
 # 1️⃣ if / else Statements
@@ -116,3 +117,39 @@
 # ✔ methods
 # ✔ user input
 # ✔ CLI calculator
+
+# ========================================================================================================================
+
+# Day 3 – Classes & Objects
+# 1️⃣ What Is a Class?
+# A class is a blueprint.
+# An object is an instance of that blueprint.
+# 2️⃣ Create Your First Java Class
+# Create a new file inside src
+# 3️⃣ Creating Objects
+# 4️⃣ Constructors (Very Important)
+# Constructors initialize objects.
+# 5️⃣ Methods Inside a Class
+# Add behavior to your class.
+# ✅ Day 3 Checklist
+# ✔ Classes
+# ✔ Objects
+# ✔ Constructors
+# ✔ this keyword
+# ✔ Methods
+
+# ========================================================================================================================
+
+# Day 4 – Encapsulation & Access Modifiers
+# 1️⃣ What Is Encapsulation? (Big Idea)
+# Encapsulation means:
+# Hide internal data and control access to it
+# ❌ Bad:
+# user.age = -100;
+# ✅ Good:
+# user.setAge(29);
+# ✅ Day 4 Checklist
+# ✔ Encapsulation
+# ✔ Access modifiers
+# ✔ Getters & setters
+# ✔ Validation logic
