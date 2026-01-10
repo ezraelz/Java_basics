@@ -19,9 +19,9 @@ public class Main {
         // New instance of user object
         Objects user = new Objects();
         // Accessing the properties of the user object
-        user.printProfile();
 
         // New instance of ArrayArrayList object
         ArrayArrayList arraylist = new ArrayArrayList();
+        arraylist.example();
     }
 }
