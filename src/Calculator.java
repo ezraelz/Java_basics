@@ -1,4 +1,9 @@
 // ===================================================
+// Day 1
+// Varialble, Data types, Scanner methods 
+// ===================================================
+
+// ===================================================
 // Calculator example using scanner and switch methods
 // ===================================================
 
@@ -23,6 +28,7 @@ public class Calculator {
         // First specify the data type 
         // Then specify the name for the variable
         // Finaly assign it to a value
+
         // Variable is declared here that has the data type of integer 
         int choice = scanner.nextInt(); 
         // scanner.nextInt() implies to the input and type of input accepted from the user

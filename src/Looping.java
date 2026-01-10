@@ -1,6 +1,12 @@
+// ===================================================
+// Day 2
+// Loops, Function methods, Arrays 
+// ===================================================
+
 // ===========================
 // Loops and examples
 // ===========================
+
 
 public class Looping {
     public void main(String[] args) {
