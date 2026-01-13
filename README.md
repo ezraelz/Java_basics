@@ -153,3 +153,12 @@
 # ✔ Access modifiers
 # ✔ Getters & setters
 # ✔ Validation logic
+
+# ======================================================================
+
+# Day 5 - Inheritance
+# Inheritance allows a class to acquire properties and methods of another class
+# Benefits
+#   Code reuse
+#   Logical hierarchy
+

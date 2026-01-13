@@ -22,6 +22,9 @@ public class Main {
 
         // New instance of ArrayArrayList object
         ArrayArrayList arraylist = new ArrayArrayList();
-        arraylist.example();
+
+        // New instance of encapsulation
+        Encapsulation encapsulation = new Encapsulation();
+        encapsulation.getUserInfo();
     }
 }
