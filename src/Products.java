@@ -1,5 +1,10 @@
 // Abstract class and Inheritance example
+// An abstract class is a class that cannot be instantiated and is meant to be subclassed. It can contain abstract methods, which are methods that are declared without an implementation and must be implemented by any subclass of the abstract class.
+// Abstract classes are used to provide a common base class for other classes to inherit from and to define a common inherited interface for a group of related classes.
+// Inheritance is a fundamental object-oriented programming concept that allows a new class (called a subclass or child class) to inherit properties and behaviors (fields and methods) from an existing class (called a superclass or parent class).
 abstract class Products{
+    // Properties of the products class
+    // The protected access modifier allows the properties to be accessed by subclasses of the products class, but not by other classes that are not subclasses of the products class
     protected int id;
     protected String name;
     protected double price;
@@ -36,6 +41,7 @@ class Electronics extends Products{
 
     // Constructor for the Electronics class that calls the constructor of the Procducts class using the super keyword to initialize the properites of the Electronics class
     public Electronics(int id, String name, double price){
+        // The super keyword is used to call the constructor of the parent class (products class) to initialize the properties of the Electronics class that are inherited from the products class
         super(id, name, price);    
     }
 
