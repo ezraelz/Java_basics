@@ -22,7 +22,7 @@ public class Methods {
         System.out.println("Hello " + name);
         return name;
     }
-    String greetwPrompt(){
+    String greetPrompt(){
         System.out.println("What is your name? ");
         String name = scanner.nextLine();
         System.out.println("Hello " + name);

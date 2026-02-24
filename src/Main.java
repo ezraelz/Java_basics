@@ -25,6 +25,14 @@ public class Main {
 
         // New instance of encapsulation
         Encapsulation encapsulation = new Encapsulation();
-        encapsulation.getUserInfo();
-    }
+
+        // New instance of polymorphism
+        Polymorphism poly = new Kids();
+
+        Electronics product = new Electronics(1, "new", 50);
+        product.setName("New");
+        product.getName();
+        product.getDescription();
+        System.out.println(product.getDescription());
+    }   
 }
